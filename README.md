@@ -15,7 +15,7 @@ Use:
 3. The file executes Perl from /usr/local/perl/bin/perl path. Change this to whichever path your perl command is posited
    e.g /usr/bin/perl
   
-4. run the executable file "./random100.pl" and beginning obey the clues.
+4. Run the executable file "./random100.pl" and beginning obey the clues.
 
 
 
