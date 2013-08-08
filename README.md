@@ -12,8 +12,8 @@ Use:
 
 2. Once you download the file, ensure that it has the right permissions to execute.
 
-3. The file executes Perl from /usr/local/perl/bin/perl path. Change this to whichever path your perl command is posited
-   e.g /usr/bin/perl
+3. The file executes Perl from /usr/bin/perl path. Change this to whichever path your perl command is posited
+   e.g /usr/local/bin/perl
   
 4. Run the executable file "./random100.pl" and begin obey the clues.
 
